@@ -1,4 +1,4 @@
 .conda/*
 dataset/archive.zip
-dataset/Flickr8k_Dataset.zip
+# dataset/Flickr8k_Dataset.zip
 dataset/__MACOSX/*
