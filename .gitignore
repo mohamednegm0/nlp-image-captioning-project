@@ -4,3 +4,5 @@ dataset/Flickr8k_Dataset.zip
 dataset/__MACOSX/*
 nlp_image_captioning_project_old.ipynb
 NLP22CSAIO5H_CW1_196280_G5.zip
+models/lstm_weights/*
+models/gru_weights/*

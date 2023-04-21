@@ -166,6 +166,7 @@ dependencies:
       - tensorflow-estimator==2.10.0
       - tensorflow-hub==0.13.0
       - tensorflow-io-gcs-filesystem==0.31.0
+      - tensorflow-text==2.10.0
       - torch==1.13.1+cu116
       - torchaudio==0.13.1+cu116
       - torchvision==0.14.1+cu116
